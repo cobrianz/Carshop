@@ -217,9 +217,6 @@ span{
 .right__hero .icon a i:hover .social__text {
     display: block;
 }
-.right__hero .icon a i:active {
-    transform: scale(.98);
-}
 
 .right__hero .bar {
     content: "";
