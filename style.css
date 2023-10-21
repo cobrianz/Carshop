@@ -214,10 +214,6 @@ span{
     background: #6a5acd;
 }
 
-.right__hero .icon a i:hover .social__text {
-    display: block;
-}
-
 .right__hero .bar {
     content: "";
     background: #6a5acd;
