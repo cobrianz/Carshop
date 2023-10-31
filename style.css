@@ -193,18 +193,3 @@ span{
     flex-direction: row-reverse;
 }
 
-.social__text  {
-    position: absolute;
-    right: 10rem;
-    color: #333333;
-    font-weight: 100;
-    font-size: smaller;
-    display: none;
-}
-
-.right__hero .bar {
-    content: "";
-    background: #6a5acd;
-    width: 2px;
-    height: 7rem;
-}
